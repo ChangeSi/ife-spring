@@ -1,0 +1,126 @@
+body
+{
+	background-color: #222222;
+	margin:0;
+	padding:0;
+}
+.all{
+	width: 1300px;
+	background-color: #d3d3d3;
+	margin: 0 auto;
+	
+}
+.top1
+{
+	background-color: #333333;
+	margin:0 auto;
+	width:1300px;
+}
+.top2
+{
+	float:right;
+	height:50px;
+	width:450px;	
+}
+.lianjie
+{
+	float:left;
+	margin-right:20px;
+	
+}
+.lianjie a{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+.part1
+{
+	background-color:white;
+	width:825px;
+	float:left;
+	margin:20px 0px 0px 20px; 
+	padding:10px 20px 20px 30px;
+	box-shadow: 2px 2px 2px #666;
+
+}
+.par
+{
+	text-indent: 2em;
+}
+/*侧栏的css*/
+.side
+{
+	width:363px;
+	float:right;
+	background-color:white;
+	margin:20px 20px 0px 0px; 
+	box-shadow: 2px 2px 2px #666;
+}
+.login
+{
+	margin-left:30px;
+	font-size:13px;
+}
+td
+{
+	font-size:13px;
+}
+.button{
+	border-radius: 12px;
+	background-color: #3355D0;
+	color: white;
+	width: 85%;
+	height: 40px;
+	font-size: 15px;
+	margin-left:20px;
+	margin-bottom:20px;
+}
+.copy
+{
+	padding-top: 5px;
+	width: 1300px;
+	height: 80px;
+	margin:20px 0 0 0;
+	text-align: center;
+	background: black;
+	color: white;
+}
+.pic
+{
+	border: 1px solid gray;
+	width: 120px;
+	height: 120px;
+	margin:0 0 20px 20px;
+	float:left;
+	
+
+	
+}
+.pic img
+{
+	width:100px;
+	height:80px;
+	margin-top:-10px;
+	margin-left:10px;
+}
+.pic p
+{
+	margin-top:5px;
+	text-align:center;
+}
+#td1
+{
+	
+	width:336px;
+	background-color:black;
+	color:white;
+	font-size:13px;
+}
+#td2
+{
+	
+	width:141px;
+	background-color:black;
+	color:white;
+	font-size:13px;
+}
