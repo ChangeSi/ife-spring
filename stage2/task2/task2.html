@@ -42,7 +42,7 @@ var aqiData = [
 	for (var i = 0; i < aqiData.length; ++i) 
 	{
 		var nodeli = document.createElement("li");
-		if (aqiData[i][1] >= 60) 
+		if (aqiData[i][1] > 60) 
 		{
 			nodeli.innerHTML =aqiData[i][0] + ' ' + aqiData[i][1];
 			nodeul.appendChild(nodeli);
