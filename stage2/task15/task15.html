@@ -78,7 +78,7 @@ function getData() {
  */
 function sortAqiData(data) {
 	function second(a,b){
-		return a[1]-b[1];
+		return b[1]-a[1];
 	}
 	data.sort(second);
 	
