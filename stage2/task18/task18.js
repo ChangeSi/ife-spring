@@ -56,9 +56,6 @@ window.onload = function () {
             alert("无节点可出");
         }
     }
-    function delli(){
-
-    }
     number.addEventListener("focus",clear,false);
     leftin.addEventListener("click",inleft,false);
     rightin.addEventListener("click",inright,false);
